@@ -24,7 +24,7 @@ $(function () {
     $('button.start').click(function () {
         console.log('test');
         upadateDate();
-        timer = setInterval(upadateDate, 5000);
+        timer = setInterval(upadateDate, 10000);
     });
     $('button.stop').click(function () {
         clearInterval(timer);
