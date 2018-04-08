@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="418edae9-45b4-4c81-8eb3-469a0cb61328" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/content.js" afterPath="$PROJECT_DIR$/web/content.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/web/content.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -308,12 +306,20 @@
       <workItem from="1522957027503" duration="1691000" />
       <workItem from="1523036372333" duration="6700000" />
       <workItem from="1523083008605" duration="35405000" />
-      <workItem from="1523174005034" duration="5312000" />
+      <workItem from="1523174005034" duration="5409000" />
     </task>
+    <task id="LOCAL-00001" summary="changed the polling time to 10 sec">
+      <created>1523179544432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523179544432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51574000" />
+    <option name="totallyTimeSpent" value="51671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -364,6 +370,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed the polling time to 10 sec" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed the polling time to 10 sec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -682,7 +692,7 @@
     <entry file="file://$PROJECT_DIR$/web/content.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
