@@ -1,0 +1,7 @@
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
+currency_app:
+    defaults: {_controller: AppBundle:Currency:getRate }
+    path: /currency/{currency}/rate
+    methods: [GET]

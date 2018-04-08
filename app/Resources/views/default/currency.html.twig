@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div>Страница с валютами</div>
+    <div>
+        <select class="currency">
+            <option value="EUR">Евро</option>
+            <option value="USD">Доллар</option>
+            <option value="JPY">Йена</option>
+        </select>
+        <button class="start">Get</button>
+        <button class="stop">Stop</button>
+    </div>
+    <div class="data-container">
+
+        Тут будет цифры и дата
+    </div>
+{% endblock %}
+{% block javascripts %}
+    <script>
+
+    </script>
+{% endblock %}
